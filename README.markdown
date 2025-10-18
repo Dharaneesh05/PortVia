@@ -57,16 +57,6 @@ npm run start
 - **Project Demos**: Access interactive demos like SmartFit, Virtual Home Recommender, and Movie Recommendation System.
 - Example: Navigate to `/resume-analyzer` to test the AI-powered resume tool.
 
-## Screenshots
-
-### Homepage
-![Homepage Screenshot](screenshots/homepage.png)
-
-### Resume Analyzer
-![Resume Analyzer Screenshot](screenshots/resume-analyzer.png)
-
-### AI Chatbot
-![AI Chatbot Screenshot](screenshots/ai-chatbot.png)
 
 ## Contributing
 
