@@ -5,8 +5,6 @@ PortVia is a dynamic full-stack personal portfolio website showcasing my project
 ## Features
 
 - **Personal Portfolio Display**: Showcases projects, skills, certifications, internships, and LeetCode achievements.
-- **AI-Powered Chatbot**: Integrated AI assistant to answer questions about projects, skills, and experience.
-- **Dynamic Content**: Real-time data visualization and predictive analytics for resume analysis and job suggestions.
 - **Theme Switching**: Customizable UI themes for an enhanced user experience.
 - **Responsive Design**: Accessible and optimized for desktop and mobile devices.
 - **Interactive Sections**: Includes about me, skills, featured projects, experience, certifications, recent activity, and contact information.
@@ -15,10 +13,7 @@ PortVia is a dynamic full-stack personal portfolio website showcasing my project
 
 - **Frontend**: Built with React and Next.js for dynamic user interfaces, styled with CSS.
 - **Backend**: Node.js handling API endpoints and data processing.
-- **Database**: MongoDB for storing user data and analytics.
-- **AI/ML Integration**: Python with TensorFlow for AI model implementation (e.g., resume analysis, chatbot).
 - **Build Tools**: Vercel for deployment and optimization.
-- **Other Tools**: Stripe for payment integration, YOLO/OpenCV/MediaPipe for SmartFit, Blender for 3D models, Leaflet/Geopy for mapping.
 
 ## Installation
 
