@@ -193,20 +193,6 @@ export const Encryption = () => {
           />
         ))}
       </div>
-
-      {/* Background Video */}
-      <div className="w-full h-full flex items-start justify-center absolute z-[5] top-[-60px]">
-        <video
-          loop
-          muted
-          autoPlay
-          playsInline
-          preload="false"
-          className="w-full h-full object-cover opacity-30"
-        >
-          <source src="/videos/encryption-bg.webm" type="video/webm" />
-        </video>
-      </div>
     </div>
   );
 };

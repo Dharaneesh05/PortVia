@@ -14,16 +14,6 @@ export const Footer = () => {
   return (
     <footer className="w-full backdrop-blur-md bg-[#03001417] bg-transparent
      text-white relative pt-48 pb-6 mt-[-100px] overflow-hidden">
-      {/* Black Hole Video Background - Bottom half only, positioned under navigation */}
-      <video
-        autoPlay
-        muted
-        loop
-        className="absolute top-0 left-0 w-full h-[100vh] object-cover -z-10 opacity-80"
-      >
-        <source src="/videos/blackhole.webm" type="video/webm" />
-      </video>
-      
       <div className="max-w-7xl mx-auto px-5 relative z-10">
         {/* Separator Line */}
         <div className="w-full h-px bg-white/10 mb-6" />
